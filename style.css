@@ -19,6 +19,9 @@ h3 {
 h4 {
   font-weight: 700;
 }
+h5 {
+  text-align: center;
+}
 body {
   background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
   font-family: "Vollkorn", serif;
@@ -47,6 +50,7 @@ span {
   display: flex;
   justify-content: center;
 }
+
 #projects {
   margin: 20px;
   border-radius: 4px;

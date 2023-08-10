@@ -34,6 +34,9 @@ p {
 .nav-color {
   background-color: #dc9aee;
 }
+span {
+  color: #9b1fe8;
+}
 #button {
   text-align: center;
 }

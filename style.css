@@ -20,6 +20,10 @@ body {
   background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
   font-family: "Vollkorn", serif;
 }
+p {
+  font-size: 20px;
+  text-align: center;
+}
 
 .contacts {
   margin-top: 500px;
@@ -28,6 +32,7 @@ body {
   width: 100%;
   text-align: center;
   font-size: 48px;
+  color: #000;
 }
 .nav-color {
   background-color: #dc9aee;

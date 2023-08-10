@@ -37,6 +37,10 @@ p {
   font-size: 48px;
   color: #9b1fe8;
 }
+footer #icon {
+  font-size: 48px;
+  color: #9b1fe8;
+}
 .nav-color {
   background-color: #dc9aee;
 }
@@ -50,7 +54,11 @@ span {
   display: flex;
   justify-content: center;
 }
-
+footer #email {
+  text-decoration: none;
+  font-size: 48px;
+  color: #dc9aee;
+}
 #projects {
   margin: 20px;
   border-radius: 4px;
